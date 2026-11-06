@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OGeoIP
+Comment=Offline IP geolocation (MaxMind MMDB engine) · scope · rDNS · ASN/BGP
+Exec=OGeoIP
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ORecon;
+Keywords=OGeoIP;owlsec;security;geoip;mmdb;maxmind;dns;asn;
